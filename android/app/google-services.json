@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343378783251",
+    "project_id": "cordillera-moviles",
+    "storage_bucket": "cordillera-moviles.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343378783251:android:2123fec9965f9900ab23e6",
+        "android_client_info": {
+          "package_name": "com.example.login_practica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB96o-iYwyBxa0xy_ivBccT0f8PTeo-Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

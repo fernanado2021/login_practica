@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "cordillera-moviles",
+                    "appId": "1:343378783251:android:2123fec9965f9900ab23e6",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "cordillera-moviles",
+                    "configurations": {
+                        "android": "1:343378783251:android:2123fec9965f9900ab23e6",
+                        "ios": "1:343378783251:ios:79426186416cb435ab23e6",
+                        "macos": "1:343378783251:ios:79426186416cb435ab23e6",
+                        "web": "1:343378783251:web:4e8f59cab12f6ae0ab23e6",
+                        "windows": "1:343378783251:web:164aaf8e1404ef2aab23e6"
+                    }
+                }
+            }
+        }
+    }
+}
